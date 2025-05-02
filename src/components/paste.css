@@ -1,0 +1,15 @@
+#searching{
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 600px;
+
+}
+#content{
+    display: flex;
+    flex-direction: column;
+  
+    border: 1px solid black;
+    margin: 10px;
+    
+}
